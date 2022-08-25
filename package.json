@@ -1,0 +1,15 @@
+{
+  "name": "auth0-escookie-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@auth0/auth0-spa-js": "^1.22.2"
+  },
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
